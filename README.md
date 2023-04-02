@@ -4,6 +4,7 @@ A C raycaster is a program that simulates a 3D environment by casting rays from 
 The internal workings of the raycaster use a digital differential analyzer (DDA) algorithm to interpolate values faster while detecting horizontal or vertical lines. This allows for efficient rendering of the 3D environment and smooth movement of the player.
 
 Overall, the C raycaster provides a fun and interactive experience for users to explore a 3D environment in real-time, with the ability to move and interact with the virtual world.
-
-
-
+<br>
+<br>
+<br>
+<p align="center"><img src="https://github.com/masterMav/Raycaster/blob/main/images/raycaster_img.png" /></p>
